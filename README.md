@@ -1,4 +1,4 @@
-Dex Aggregator
+
 A Dex Aggregator is a smart contract that talks to decentralized exchanges (DEX) on a blockchain and determines which exchange has the best rate for a given swap. Then, it executes the swap. In this project, we are building a simple dex aggregator that talks to Uniswap and Sushiswap, and executes swaps between WETH and USDC. We are forking the mainnet with ganahce-cli to test and interface with our smart contract.
 
 Tech:
