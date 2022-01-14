@@ -1,0 +1,22 @@
+.Button-container {
+    display: flex;
+    justify-content: space-between;
+    /* background-color: orange; */
+    width: 50%;
+
+
+}
+
+.Address{
+    /* margin-right: 50px; */
+    align-self: auto;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.Connect {
+    margin-right: 50px;
+
+}
